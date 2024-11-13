@@ -155,5 +155,15 @@
     .col {
         padding: 0;
     }
-    .why-us { background-color: #222222;}
+    .why-us { background-color: #222222;
+        margin-bottom: 0;
+    padding: 3rem 0
 }
+
+    .steps{ margin-bottom: 0;}
+}
+@media screen and (max-width: 768px) {
+    
+    .container {
+        width: 100%;
+    }
